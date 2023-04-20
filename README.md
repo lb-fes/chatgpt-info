@@ -78,10 +78,6 @@ ChatGPT 中文使用指南
 
 对标 ChatGPT ，但训练数据开源，还没做出来
 
-## [ml-tooling](https://github.com/ml-tooling)/**[best-of-ml-python](https://github.com/ml-tooling/best-of-ml-python)**
-
-机器学习相关的项目排行榜，每周更新
-
 ## [wong2 ](https://github.com/wong2)/ [chatgpt-google-extension](https://github.com/wong2/chatgpt-google-extension)
 
 搜索引擎侧边栏。已被收购，后续更新不再开源。
@@ -96,8 +92,8 @@ ChatGPT 中文使用指南
 
 ## [xx025](https://github.com/xx025)/**[carrot](https://github.com/xx025/carrot)**
 
-免费或收费的提供 ChatGPT 服务的网站。
+收集免费或收费提供 ChatGPT 服务的网站。
 
 ### [josStorer ](https://github.com/josStorer)/ [chatGPTBox](https://github.com/josStorer/chatGPTBox)
 
-浏览器插件
+todo
