@@ -97,3 +97,18 @@ ChatGPT 中文使用指南
 ### [josStorer ](https://github.com/josStorer)/ [chatGPTBox](https://github.com/josStorer/chatGPTBox)
 
 todo
+
+## https://openprompt.co/
+
+提示开源
+
+## [Vision-CAIR](https://github.com/Vision-CAIR)/**[MiniGPT-4](https://github.com/Vision-CAIR/MiniGPT-4)**
+
+MiniGPT-4：使用先进的大型语言模型增强视觉语言理解能力
+
+解释图片
+
+## [openai](https://github.com/openai)/**[chatgpt-retrieval-plugin](https://github.com/openai/chatgpt-retrieval-plugin)** 
+
+ChatGPT检索插件可以让您通过使用日常语言提出问题，轻松搜索和查找个人或工作文档。
+
