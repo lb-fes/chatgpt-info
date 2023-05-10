@@ -1,3 +1,5 @@
+![visitors](https://count.getloli.com/get/@:lb-fes?theme=gelbooru)
+
 # 如何注册 ChatGPT 账号
 
 视频教程：[【2023最新】注册 ChatGPT 账号！一次成功、ChatGPT 注册教程！在国内也可以轻松注册 ChatGPT 和 OpenAI｜数字牧民LC](https://www.youtube.com/watch?v=NWJeRBMpsx8&ab_channel=%E6%95%B0%E5%AD%97%E7%89%A7%E6%B0%91LC)
